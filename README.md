@@ -10,7 +10,9 @@ O objetivo do exercício era aplicar boas práticas de design visual, organizaç
 
 ## 🖼️ Prévia do wireframe
 
-![Wireframe de média fidelidade](./assets/wireframe-media-fidelidade.png)
+<p align="center">
+  <img src="./assets/wireframe-media-fidelidade.png" alt="Wireframe de média fidelidade" />
+</p>
 
 ## 🔗 Acesse no Figma
 
